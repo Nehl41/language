@@ -1,0 +1,21 @@
+﻿h1{
+	background-color:aqua;
+	border:medium;
+}
+h2{
+	background-color:black;
+	color:white;
+}
+h3{
+	background-color:black;
+	color:white;
+	font-weight:100;
+}
+.topnav a:hover{
+	background-color:navy;
+	color:white;
+	font-weight:bold;
+}
+div {
+	height:6%;
+}
